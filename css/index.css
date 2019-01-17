@@ -1,0 +1,46 @@
+body{
+background-color: #24292e; 
+}
+
+.containerFondo{
+ background:#24292e;
+}
+
+header{
+	background:#fff;
+	color: #24292e;
+	border-radius: 0px 0px 13px 13px;
+	-moz-border-radius: 0px 0px 13px 13px;
+	-webkit-border-radius: 0px 0px 13px 13px;
+}
+
+.logo-imagen{
+	border-radius: 12px;
+
+}
+
+.promos-sushi{
+	background: #24292e;
+}
+.contact{
+	background: #fff;
+}
+
+footer{
+	background: #fff;
+
+}
+
+
+.comunas{
+	color:#24292e;
+}
+.comunas:hover{
+	color: blue;
+	text-decoration: none;
+}
+.card{
+	border-radius: 12px;
+}
+
+
